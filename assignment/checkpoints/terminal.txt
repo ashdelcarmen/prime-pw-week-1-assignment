@@ -26,8 +26,16 @@
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
+  git version 2.27.0
+
 # 8 - Why would you run the command 'git status'?
+
+  To check the status of your branch (see if it is up to date, if there is anything to commit)
 
 # 9 - What does the command 'git add .' do?
 
+  it adds a change to the staging area
+
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+
+  git push origin master
